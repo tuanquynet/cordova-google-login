@@ -6,7 +6,7 @@
 - Xcode
 
 ## Prepare development environment
-- install cordova: npm install -g plugman
+- install cordova: npm install -g cordova
 
 ## Generate cordova app with cordova CLI
 - https://cordova.apache.org/#getstarted
